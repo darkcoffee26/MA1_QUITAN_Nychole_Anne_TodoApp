@@ -1,0 +1,10 @@
+.App__header {
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 25px;
+}
+
+.App__title {
+  font-size: 2em;
+}
